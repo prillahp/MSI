@@ -1,4 +1,4 @@
-<!-- <?php
+<?php
 include "koneksi4.php";
 
 //get variabel yg dikirimkan dari form
@@ -31,4 +31,4 @@ if (!empty($lokasi_file)) {
 	
 	header("Location:admin.php");
 }
-?> -->
+?
