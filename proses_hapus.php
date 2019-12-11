@@ -1,4 +1,4 @@
-<!-- <?php
+<?php
 // Load file koneksi.php
 include "koneksi2.php";
 // Ambil data NIS yang dikirim oleh index.php melalui URL
@@ -20,4 +20,4 @@ if($sql2){ // Cek jika proses simpan ke database sukses atau tidak
   // Jika Gagal, Lakukan :
   echo "Data gagal dihapus. <a href='index.php'>Kembali</a>";
 }
-?> -->
+?>
